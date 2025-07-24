@@ -1,2 +1,2 @@
 console.log(
-    "hello world prachi mahajan ")
+    "hello world prachi mahajan from index.js")
